@@ -10,8 +10,8 @@
   },
   "github": "https://github.com/kumatch/turret-adapter-mysql",
   "dependencies": {
-    "async": "~0.2.9",
-    "lodash": "~2.2"
+    "lodash": "~2.2",
+    "mysql": "~2.0.0-alpha9"
   },
   "devDependencies": {
     "chai": "*",
